@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📄 https://blenda-trade.readthedocs.io
+📄 https://blenda-trade.rtfd.io
 
 📫 info@blenda.trade
 
