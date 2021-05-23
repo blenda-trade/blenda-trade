@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+📫 info@blenda.trade
+
 <!--
 **blenda-trade/blenda-trade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
