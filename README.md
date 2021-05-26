@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+📄 https://blenda-trade.rtfd.io
+
 📫 info@blenda.trade
 
 <!--
