@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Blenda Trade'
-copyright = '2021, Dev'
-author = 'Dev'
+copyright = '2021, Blenda Trade'
+author = 'Blenda Trade'
 
 
 # -- General configuration ---------------------------------------------------
@@ -45,6 +45,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # a list of builtin themes.
 #
 html_theme = 'alabaster'
+
+html_logo = 'blenda-esfalerita-50-aniversario.png'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
