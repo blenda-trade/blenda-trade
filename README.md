@@ -4,6 +4,12 @@
 
 📫 info@blenda.trade
 
+The objective of Blenda Trade is to build an automated trading robot which blends multiple inconsistent trading signals to achieve a consistent and tightly risk controlled result.
+
+The experiment is ongoing with results visible here:
+
+https://www.myfxbook.com/members/BlendaTrade/blenda-demo-aud-mt5/8478327
+
 <!--
 **blenda-trade/blenda-trade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
